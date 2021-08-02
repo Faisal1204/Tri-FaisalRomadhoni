@@ -1,2 +1,5 @@
-# Tri-FaisalRomadhoni
-Tri Faisal Romadhoni-20200121012-SI 1/2 
+# UJIAN AKHIR SEMESTER
+Nama : Tri Faisal Romadhoni
+Nim : 20200121012
+Prodi : Sistem Informasi
+
